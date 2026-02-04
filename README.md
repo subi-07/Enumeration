@@ -116,7 +116,8 @@ and issue appropriate commands
   
  ##Output
   
-  <img width="551" height="89" alt="image" src="https://github.com/user-attachments/assets/cfe23c2a-5f95-4b26-8151-bcd4eeda154c" />
+<img width="534" height="131" alt="image" src="https://github.com/user-attachments/assets/28ff2844-b583-433f-a81d-580f7f218bb7" />
+
 
 
 ## nmap –script smtp-enum-users.nse <hostname>
