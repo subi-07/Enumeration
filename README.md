@@ -116,7 +116,9 @@ and issue appropriate commands
   
  ##Output
   
-<img width="534" height="131" alt="image" src="https://github.com/user-attachments/assets/28ff2844-b583-433f-a81d-580f7f218bb7" />
+<img width="962" height="624" alt="image" src="https://github.com/user-attachments/assets/b09be21d-9d37-4e99-99d9-ca5c531ece18" />
+
+
 
 
 
